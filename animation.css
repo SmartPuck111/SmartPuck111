@@ -1,0 +1,32 @@
+div.carousel-container {
+
+}
+div.carousel-container > * {
+	display: inline-block;
+	vertical-align: middle;
+}
+div.carousel-container > button {
+	color: transparent;
+	border: 0px;
+	background: transparent url(./carousel-left.png);
+	height: 28px;
+	width: 17px;
+}
+div.carousel-container > button:last-of-type {
+	background-image: url(./carousel-right.png);
+}
+
+	figure.carousel {
+		height: 768px;
+		width: 1024px;
+		overflow: hidden;
+	}
+		figure.carousel ul {
+			list-style-type: none;
+			margin: 0px; padding: 0px;
+			width: 100%;
+		}
+
+		figure.carousel ul li {
+			display: inline-block;
+		}
