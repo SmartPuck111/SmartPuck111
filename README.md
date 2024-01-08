@@ -12,7 +12,7 @@
 > Let's go beyond our limits<br>
 ></p>
 >
->## Hi 👋,AI Expert, Senior Web & Mobile Developer! Especially I am expert blockchain developer!👋
+>## Hi 👋,AI Expert, Senior Web & Mobile Developer!👋
 >
 >Main Skills:
 >- React/NextJS, VueJS/NuxtJS, Svelte, Angular
