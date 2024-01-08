@@ -12,7 +12,7 @@
 > Let's go beyond our limits<br>
 ></p>
 >
->## Hi 👋,AI Expert, Senior Web & Mobile Developer!👋
+>##                                   Hi 👋,AI Expert, Senior Web & Mobile Developer!👋
 >
 >Main Skills:
 >- React/NextJS, VueJS/NuxtJS, Svelte, Angular
